@@ -5,6 +5,7 @@ body{
     align-items: center;
     background: var(--Light-Grey, #D5E1EF);
     margin-top: 85px;
+    transition: 0.8s;
 }
 
 @media (width >= 1440px){

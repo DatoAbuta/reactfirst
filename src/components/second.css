@@ -3,8 +3,11 @@
     height: 288px;
     flex-shrink: 0;
     border-radius: 10px;
-    background: #2C7DFA;
+    background-color: #3C8EFA;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url(./assets/ovaluri.png), url(./assets/ovaluriori.png);
+    background-repeat: no-repeat;
+    background-position: 0% 0%, 100% 100%;
 }
