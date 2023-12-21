@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Bai+Jamjuree:wght@400;600&family=Big+Shoulders+Display:wght@800;900&family=Chivo&family=DM+Serif+Display&family=Hanken+Grotesk:wght@500;700;800&family=Inconsolata:wght@400;700&family=Inter:wght@400;700&family=Josefin+Sans:wght@300;400;700&family=Karla:wght@400;700&family=Kumbh+Sans:wght@400;700&family=League+Spartan:wght@700&family=Lora:wght@400;700&family=Manrope:wght@800&family=Outfit:wght@300;400;700&family=Plus+Jakarta+Sans:wght@500;700;800&family=Poppins:wght@300;400;600&family=Red+Hat+Display:wght@500;900&family=Red+Hat+Text:wght@700&family=Space+Mono:wght@700&display=swap');
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--Light-Grey, #D5E1EF);
+    margin-top: 85px;
+}
+
+@media (width >= 1440px){
+    body{
+
+        margin-top: 152px;
+    }
+}

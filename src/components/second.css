@@ -1,0 +1,10 @@
+.second{
+    width: 288px;
+    height: 288px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #2C7DFA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
