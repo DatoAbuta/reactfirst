@@ -3,7 +3,7 @@ import "./second.css"
 const Second = () => {
   return (
     <div className='second'>
-        <img src="public/assets/qr-code.svg" alt="" />
+        <img src="./assets/qr-code.svg" alt="" />
     </div>
   )
 }
