@@ -4,7 +4,7 @@ import "./main.css"
 
 const Main = () => {
   return (
-    <div className="mainbox">
+    <div className="main">
         <Second /> 
         <Textbox />
     </div>
