@@ -7,7 +7,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(./assets/ovaluri.png), url(./assets/ovaluriori.png);
+    background-image: url(/assets/ovaluri.png), url(/assets/ovaluriori.png);
     background-repeat: no-repeat;
     background-position: 0% 0%, 100% 100%;
 }
